@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello_Triangle", "Hello_Triangle.vcxproj", "{8F1D19C1-C7C2-45FE-A044-0E1A32AEA098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1D19C1-C7C2-45FE-A044-0E1A32AEA098}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F1D19C1-C7C2-45FE-A044-0E1A32AEA098}.Debug|x86.Build.0 = Debug|Win32
+		{8F1D19C1-C7C2-45FE-A044-0E1A32AEA098}.Release|x86.ActiveCfg = Release|Win32
+		{8F1D19C1-C7C2-45FE-A044-0E1A32AEA098}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BA1F7DF-B3D7-4A4B-B7C8-05E04A7B191D}
+	EndGlobalSection
+EndGlobal
